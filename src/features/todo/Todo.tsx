@@ -21,12 +21,6 @@ const contentStyle: React.CSSProperties = {
   // backgroundColor: '#108ee9',
 };
 
-const footerStyle: React.CSSProperties = {
-  textAlign: "center",
-  color: "#fff",
-  // backgroundColor: '#7dbcea',
-};
-
 export default function () {
   return (
     <Layout>
